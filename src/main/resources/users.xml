@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <name>Nick</name>
+        <surname>Raven</surname>
+        <city>Amsterdam</city>
+        <favouriteBands>
+            <band>
+                <name>Cannibal Corpse</name>
+                <style>Brutal Death Metal</style>
+            </band>
+            <band>
+                <name>Slayer</name>
+                <style>Thrash metal</style>
+            </band>
+        </favouriteBands>
+    </user>
+    <user>
+        <name>Max</name>
+        <surname>Fawler</surname>
+        <city>Washington D.C.</city>
+        <favouriteBands>
+            <band>
+                <name>Metallica</name>
+                <style>Thrash metal</style>
+            </band>
+        </favouriteBands>
+    </user>
+    <user>
+        <name>Vasya</name>
+        <surname>Pupkin</surname>
+        <city>Cheboksary</city>
+        <favouriteBands>
+            <band>
+                <name>Nadezhda Kadysheva</name>
+                <style>folk</style>
+            </band>
+        </favouriteBands>
+    </user>
+</users>
