@@ -11,9 +11,9 @@ package com.reader;
 
 public class Reader {
     public static void main(String[] args) {
-        XStream xstream = new XStream();
+        /*XStream xstream = new XStream();
         Person newPerson = (Person) xstream.fromXML("C:\\users.xml");
-        Band newBand = (Band) xstream.fromXML("C:\\users.xml");
+        Band newBand = (Band) xstream.fromXML("C:\\users.xml");*/
     }
 }
 
